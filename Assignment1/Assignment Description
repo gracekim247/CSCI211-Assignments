@@ -1,0 +1,3 @@
+Simple program to manage exam scores with the use of multiple files. 
+
+User can either add an exam score to the list, remove an exam score from the list, or see the number of exam scores in the list.
